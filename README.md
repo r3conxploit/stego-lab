@@ -1,7 +1,4 @@
 <!-- START DARK MODE SNAKE HACK -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" style="filter: invert(100%)"/>
-</p>
 
 <pre align="center">
 
