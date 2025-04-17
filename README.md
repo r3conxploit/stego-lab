@@ -68,4 +68,16 @@
 Want to collaborate or report a stealth issue?  
 Drop a message: [`r3conxploit@protonmail.com`](mailto:r3conxploit@protonmail.com)
 
+
+<p align="center">
+  <a href="https://github.com/r3conxploit" target="_blank"><img src="https://img.shields.io/badge/GitHub-r3conxploit-2b3137?style=for-the-badge&logo=github" alt="GitHub"></a>
+</p>
+
 ---
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/r3conxploit/assets/main/banners/stealth-footer.gif" width="400" alt="footer"/>
+    <br>
+    <sub>Covert Ops. Digital Shadows. 🕶️</sub>
+</div>
+
